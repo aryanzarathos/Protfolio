@@ -11,9 +11,9 @@ import nginx from "./assets/images/img/nginx.png";
 import sd from "./assets/images/img/sd.png";
 import typescript from "./assets/images/img/typescript.svg";
 
-import project1 from "./assets/images/projects/img1.png";
-import project2 from "./assets/images/projects/img2.png";
-import project3 from "./assets/images/projects/img3.png";
+import project1 from "./assets/images/Projects/img1.png";
+import project2 from "./assets/images/Projects/img2.png";
+import project3 from "./assets/images/Projects/img3.png";
 import person2 from "./assets/images/img/person2.png";
 
 // import icons from react-icons

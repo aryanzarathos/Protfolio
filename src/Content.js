@@ -1,5 +1,3 @@
-// import images
-import Hero_person from "./assets/images/Hero/person.png";
 import reactjs from "./assets/images/Skills/react.png";
 import nodejs from "./assets/images/Skills/node.png";
 import services_logo1 from "./assets/images/Services/logo1.png";
@@ -16,17 +14,11 @@ import typescript from "./assets/images/img/typescript.svg";
 import project1 from "./assets/images/projects/img1.png";
 import project2 from "./assets/images/projects/img2.png";
 import project3 from "./assets/images/projects/img3.png";
-import person_project from "./assets/images/img/person2.png";
-import person from "./assets/images/img/person.jpg";
 import person2 from "./assets/images/img/person2.png";
-
-import Hireme_person from "./assets/images/img/person2.png";
-import Hireme_person2 from "./assets/images/img/person2.png";
 
 // import icons from react-icons
 import { GrMail } from "react-icons/gr";
 import { MdArrowForward, MdCall } from "react-icons/md";
-import { BsInstagram } from "react-icons/bs";
 import { TbSmartHome } from "react-icons/tb";
 import { BiUser } from "react-icons/bi";
 import { RiServiceLine, RiProjectorLine } from "react-icons/ri";
